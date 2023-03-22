@@ -1,0 +1,9 @@
+.mission {
+  border: 2px solid darkgray;
+  margin: 10px;
+  padding: 10px;
+  border-radius: 15px;
+}
+.mission p {
+  text-align: center;
+}
